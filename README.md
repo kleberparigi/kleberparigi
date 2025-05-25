@@ -16,9 +16,9 @@ Sou movido por desafios, inovação e pela vontade de gerar impacto. Acredito na
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kleberparigi/)
 - 🎥 [Vídeos dos Projetos Power BI (Loom)](https://www.loom.com/looms/videos)
-- 🔴 [Projetos 2025](#) <!-- Substituir pelo link real -->
-- 🟡 [Projetos 2024](#)
-- 🟢 [Projetos em Python](#)
+- 🔴 [Projetos 2025](https://github.com/kleberparigi/PROJETOS-POWER-BI) <!-- Substituir pelo link real -->
+- 🟡 [Projetos 2024](https://github.com/kleberparigi/PROJETOS-POWER-BI)
+- 🟢 [Projetos em Python](https://github.com/kleberparigi/PROJETOS-PYTHON)
 
 ---
 
