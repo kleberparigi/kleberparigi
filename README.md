@@ -19,7 +19,8 @@ Sou movido por desafios, inovação e pela vontade de gerar impacto. Acredito na
 - 🔴 [Projetos 2025 Power BI](https://github.com/kleberparigi/PROJETOS_POWER_BI/tree/main/PROJETOS_2025) <!-- Substituir pelo link real -->
 - 🟡 [Projetos 2024 Power BI](https://github.com/kleberparigi/PROJETOS_POWER_BI/tree/main)
 - 🟢 [Projetos em Python](https://github.com/kleberparigi/PROJETOS-PYTHON)
-- 🟢 [Projetos em COBOL](https://github.com/kleberparigi/PROJETOS_COBOL)
+- 🟣 [Projetos em COBOL](https://github.com/kleberparigi/PROJETOS_COBOL)
+- 🤖 [Projetos de IA's](https://github.com/kleberparigi/PROJETOS_IA)
 
 ---
 
