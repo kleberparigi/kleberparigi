@@ -1,14 +1,42 @@
 # 👨🏻‍💻 Kleber Parigi
 
-**`Analista de Dados | Banco de Dados`**
+**`Analyst BI | Analista de Dados | Banco de Dados | Python | IA | Power Automate | Automações | LegalTech`**
 
-Me chamo Kleber Parigi Pinto, tenho 35 anos e sou natural de São Paulo. Tenho mais de 10 anos de experiência na área de tecnologia, com forte atuação como Analista de Suporte Sênior, sendo os últimos anos focados em tecnologia, dados e migração de sistemas jurídicos.
+# Olá, eu sou o Kleber Parigi 👋
 
-Sou apaixonado por transformar informações em decisões estratégicas. Nos últimos anos, trabalhei lado a lado com times de tecnologia, desenvolvimento e Customer Success, sempre com foco em resolver problemas complexos, otimizar processos e melhorar a experiência dos usuários por meio da análise crítica e do uso inteligente dos dados.
+Profissional de tecnologia com mais de 10 anos de experiência, atuando nas áreas de **Business Intelligence, Análise de Dados, Banco de Dados, ETL e Automação**.
 
-Atualmente, estou em transição de carreira para atuar exclusivamente com análise de dados, unindo minha bagagem prática em SQL, Power BI, Python, bancos de dados relacionais (PostgreSQL, MySQL, Oracle) e outras demais ferramentas que possuo conhecimento e experiência, como Notion, Postman, Slack, Zendesk, GitHub, Intercom, Miro, Canva, OpenVPN, Excel, com projetos voltados à inteligência de negócios, automações e visualizações de dados.
+Atualmente trabalho como **Analista de BI**, desenvolvendo soluções que transformam dados em informações estratégicas para apoiar a tomada de decisão. Meu dia a dia envolve a construção de processos **ETL** com **Pentaho Data Integration (PDI)**, desenvolvimento de dashboards em **Power BI**, automações com **Python**, consultas avançadas em **SQL** e aplicações de **Inteligência Artificial** para otimização de processos e aumento de produtividade.
 
-Sou movido por desafios, inovação e pela vontade de gerar impacto. Acredito na importância da curiosidade, da escuta ativa e da colaboração como pilares para qualquer solução sólida.
+Ao longo da minha trajetória, atuei como Analista de Suporte Sênior, Analista de Dados e especialista em migração de sistemas jurídicos, sempre trabalhando em conjunto com equipes de desenvolvimento, produto, Customer Success e negócio para entregar soluções orientadas por dados.
+
+Tenho sólida experiência em bancos de dados relacionais, com domínio de **SQL Server, PostgreSQL, MySQL e Oracle**, incluindo modelagem de dados, consultas complexas, CTEs, procedures, triggers, views, otimização de performance e validação de grandes volumes de informações.
+
+Também possuo experiência prática com integração de APIs REST, Postman e diversas ferramentas que fazem parte do ecossistema de dados e produtividade, como GitHub, Excel, Notion, Slack, Zendesk, Intercom, Miro, Canva e OpenVPN.
+
+## 🚀 Tecnologias e Ferramentas
+
+* SQL Server
+* PostgreSQL
+* MySQL
+* Oracle Database
+* Power BI
+* Pentaho Data Integration (PDI)
+* Python
+* ETL
+* Inteligência Artificial
+* APIs REST
+* Postman
+* Git & GitHub
+* Excel
+
+## 💡 Sobre este GitHub
+
+Este repositório reúne projetos desenvolvidos para estudos, desafios técnicos e aplicações práticas envolvendo **Análise de Dados**, **Business Intelligence**, **Python**, **SQL**, **Power BI**, **ETL**, automações e Inteligência Artificial.
+
+Meu objetivo é compartilhar conhecimento, documentar minha evolução profissional e demonstrar, por meio de projetos reais, como os dados podem gerar valor para pessoas e organizações.
+
+📫 **Vamos nos conectar!**
 
 ---
 
@@ -44,7 +72,14 @@ Sou movido por desafios, inovação e pela vontade de gerar impacto. Acredito na
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=miro&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white)
-![Oracle](https://img.shields.io/badge/-SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Apache Hop](https://img.shields.io/badge/-Apache_Hop-0D5CAB?style=flat-square&logo=apache&logoColor=white)
+![Pentaho](https://img.shields.io/badge/-Pentaho-005CA9?style=flat-square)
+![Claude AI](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gamma](https://img.shields.io/badge/-Gamma-6C63FF?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL-0052CC?style=flat-square)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square)
+![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
